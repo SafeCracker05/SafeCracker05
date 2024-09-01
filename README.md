@@ -8,3 +8,5 @@
 SafeCracker05/SafeCracker05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![SafeCracker05's GitHub | Stats](https://stats.quira.sh/SafeCracker05/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SafeCracker05)
+
